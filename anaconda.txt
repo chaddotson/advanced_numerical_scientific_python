@@ -1,0 +1,9 @@
+Anaconda
+    Standard Python
+    Packages
+        Numpy
+        Scipy
+        MATPLOTLIB
+    Spyder
+    Jupyter
+    
