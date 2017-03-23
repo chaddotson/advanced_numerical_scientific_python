@@ -1,0 +1,9 @@
+numpy
+    array
+        n-dimensional
+        iterable
+        consistant in type
+        rectangular / non sparse
+        immutable for shape, size, type (will create copies)
+        mutable elements
+        
