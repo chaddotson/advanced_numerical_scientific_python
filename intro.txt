@@ -1,0 +1,36 @@
+
+Advanced Numerical / Scientific in Python
+
+
+Python
+    Libraries
+    Distributions
+    
+Anaconda, Python 3.6
+    Spyder
+    Jupyter
+    
+MATPLOTLIB
+    Graphs
+    Figures
+    Image manipulation
+    DAta Visualization
+    
+Numpy
+    NDARRAY - Numpy Array
+
+Systems of equations
+Matrix math
+
+Scipy
+    Integration
+        Trapezoidal
+        Gaussion Quadrature
+    Interpolation (Data fitting)
+    Optimization
+    Signals
+        Fourier analysis
+    
+    
+    
+
