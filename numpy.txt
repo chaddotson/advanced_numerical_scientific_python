@@ -7,3 +7,4 @@ numpy
         immutable for shape, size, type (will create copies)
         mutable elements
         
+ndarray = float64 by default
